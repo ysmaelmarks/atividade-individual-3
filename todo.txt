@@ -1,0 +1,20 @@
+
+
+// rubricas
+Foi utilizado um Array para cada rota e um Object para cada dado.
+Os dados nos arquivos Json estão estruturados e contendo um identificador (id, _id)
+O package.json contém o script de “start”.
+
+// github
+Além do código, foi colocado um arquivo READ.me explicando do que se trata e como 
+pode ser executado o projeto
+O código foi enviado em commits por etapas.
+
+
+
+// extra
+Rotas personalizadas para cada verbo/ação realizada. 
+◼ Ex: Rota criada automática = “POST /notas/” 
+      |Rota personalizada = “POST /notas/create”.
+⇨ Ter uma rota onde tem uma lista de itens/produtos em que cada 
+item/produto contenha um link de foto.

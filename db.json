@@ -1,0 +1,125 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Ysmael Marques",
+      "email": "ysmaelmarkss@gmail.com",
+      "login": "ysmaelmarks",
+      "senha": "123456ab",
+      "imagem": "https://www.npmjs.com/package/json-server#add-custom-routes",
+      "inventario": [
+        {
+          "mochila1": "",
+          "mochila2": "",
+          "mochila3": "",
+          "mochila4": ""
+        }
+      ],
+      "skills": [
+        {
+          "slot1": "",
+          "slot2": "",
+          "slot3": "",
+          "slot4": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Qualquer um",
+      "email": "qualquerum@gmail.com",
+      "login": "qualquerum",
+      "senha": "123456ab",
+      "inventario": [
+        {
+          "mochila1": "",
+          "mochila2": "",
+          "mochila3": "",
+          "mochila4": ""
+        }
+      ],
+      "skills": [
+        {
+          "slot1": "",
+          "slot2": "",
+          "slot3": "",
+          "slot4": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "teste1",
+      "email": "xxxxxxx@gmail.com",
+      "login": "test1",
+      "senha": "123456ab",
+      "inventario": [
+        {
+          "mochila1": "",
+          "mochila2": "",
+          "mochila3": "",
+          "mochila4": ""
+        }
+      ],
+      "skills": [
+        {
+          "slot1": "",
+          "slot2": "",
+          "slot3": "",
+          "slot4": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "teste2",
+      "email": "xxxxxxx2@gmail.com",
+      "login": "test2",
+      "senha": "123456ab",
+      "inventario": [
+        {
+          "mochila1": "",
+          "mochila2": "",
+          "mochila3": "",
+          "mochila4": ""
+        }
+      ],
+      "skills": [
+        {
+          "slot1": "",
+          "slot2": "",
+          "slot3": "",
+          "slot4": ""
+        }
+      ]
+    }
+  ],
+  "dungeons": [
+    {
+      "id": 1,
+      "dungeonName": "",
+      "player1": "",
+      "player2": "",
+      "player3": "",
+      "player4": ""
+    }
+  ],
+  "clans": [
+    {
+      "id": 1,
+      "clanName": "OsBrabos",
+      "tagName": "",
+      "leader": "",
+      "2ndLeader": "",
+      "members": ""
+    },
+    {
+      "id": 2,
+      "clanName": "Qualquercoisa",
+      "tagName": "",
+      "leader": "",
+      "2ndLeader": "",
+      "members": ""
+    }
+  ]
+}
